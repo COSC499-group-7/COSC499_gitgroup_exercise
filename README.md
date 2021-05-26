@@ -1,4 +1,4 @@
 # COSC499_gitgroup_exercise
 
-## Integerdesc
-User can sorting integer array into DESC order by using this function.
+## Stringdesc
+This feature accepts a list of strings, sorts them in a descending order and returns the result as a sorted list.  
